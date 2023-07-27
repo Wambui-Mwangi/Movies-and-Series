@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import MovieList from './components/MovieList';
 import MovieDetails from './components/MovieDetails';
+import navigation from './Navigation';
 import {BrowserRouter, Routes, Route, Link} from 'react-router-dom';
 
 
